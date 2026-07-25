@@ -51,6 +51,15 @@ A Filipino Fake News Frame Classifier that detects semantic frames in news artic
 
 ## 🏗️ Project Structure
 
+```
+semantic-classifier/
+├── app.py                    # Main Streamlit application
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+└── .streamlit/               # Streamlit configuration
+    └── config.toml           # App settings
+```
+
 ## 📦 Installation (Local Development)
 
 To run this app on your own computer:
