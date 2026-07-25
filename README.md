@@ -1,5 +1,7 @@
 # 🇵🇭 Semantic Frame Classifier
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://semantic-classifier-8gqzd5njprfgrreoktt3bu.streamlit.app)
+
 **Live Demo:** [Click here to open the app](https://semantic-classifier-8gqzd5njprfgrreoktt3bu.streamlit.app)
 
 BS Data Analytics Thesis Proposed System | University of the Cordilleras
