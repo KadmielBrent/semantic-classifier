@@ -16,7 +16,7 @@ st.markdown("---")
 # Your Hugging Face repositories
 HUGGINGFACE_REPO = {
     "tagalog": "KadmielBrent/tagalog_model",
-    "english": "KadmielBrent/english_model"  # Make sure this one is fixed too!
+    "english": "KadmielBrent/english_model"  # Make sure this is fixed too!
 }
 
 # Labels and descriptions
