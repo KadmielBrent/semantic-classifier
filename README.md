@@ -50,3 +50,13 @@ A Filipino Fake News Frame Classifier that detects semantic frames in news artic
 - **Model Hosting:** Hugging Face
 
 ## 🏗️ Project Structure
+
+## 📦 Installation (Local Development)
+
+To run this app on your own computer:
+
+```bash
+git clone https://github.com/KadmielBrent/semantic-classifier
+cd semantic-classifier
+pip install -r requirements.txt
+streamlit run app.py
